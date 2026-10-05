@@ -16,7 +16,7 @@ Python · FastAPI · Node.js · TypeScript · SQL/PostgreSQL · AWS · Azure · 
 - **Partner Inventory Sync** — API + CSV ingestion pipeline with data validation and PostgreSQL
 
 ## Contact
-[LinkedIn](https://linkedin.com/in/alexander-fagbohun) · dejifagbohun@live.co.uk
+[LinkedIn](www.linkedin.com/in/alexander-fagbohun-b5715a244) · dejifagbohun@live.co.uk
 
 <!--
 **alexander-fagbohun/alexander-fagbohun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
